@@ -1,0 +1,5 @@
+matplotlib
+numpy == 1.19.4
+pandas
+scikit_learn == 0.21.3
+torch == 1.8.0
